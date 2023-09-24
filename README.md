@@ -14,7 +14,7 @@ I want to make a motion sensored trashcan using arduino.
 
 ## Educational Value Added
 
-This will be my first personal project, so I'm mainly looking for experience. I want to learn how to plan and carry out a project as well as how to use arduino and its code.
+This will be my first personal project, so I'm mainly using a very basic project to gain experience and build up. I want to learn how to plan and carry out a project as well as how to use arduino and its code.
 
 ## Tasks
 
