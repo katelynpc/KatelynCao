@@ -10,11 +10,11 @@ IN PROGRESS
 
 ## Project Overview
 
-I want to make a motion sensored trashcan using arduino.
+I want to make a VU meter using LEDs and a freeform circuit design.
 
 ## Educational Value Added
 
-This will be my first personal project, so I'm mainly using a very basic project to gain experience and build up. I want to learn how to plan and carry out a project as well as how to use arduino and its code.
+I plan to use this to gain experience finding the right values for resistors, caps, etc. I also want to learn how to solder freeform circuits as well as how to use microcontrollers.
 
 ## Tasks
 
